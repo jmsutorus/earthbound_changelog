@@ -1,9 +1,9 @@
-# [1.24.0](https://github.com/jmsutorus/homepage/compare/v1.23.0...v1.24.0) (2026-05-01)
+## [1.24.1](https://github.com/jmsutorus/homepage/compare/v1.24.0...v1.24.1) (2026-05-01)
 
 
-### Features
+### Bug Fixes
 
-* mobile upgrades ([#105](https://github.com/jmsutorus/homepage/issues/105)) ([0761f35](https://github.com/jmsutorus/homepage/commit/0761f35fe8f6f181770e27cc5979da02c0e5c5dd))
+* fixed workouts ([#106](https://github.com/jmsutorus/homepage/issues/106)) ([00f6690](https://github.com/jmsutorus/homepage/commit/00f6690eb695467c96b3512ab7e4bdb5812c9ad1))
 
 # [1.22.0](https://github.com/jmsutorus/homepage/compare/v1.21.3...v1.22.0) (2026-05-01)
 
