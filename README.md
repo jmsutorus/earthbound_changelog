@@ -19,6 +19,13 @@ deno task dev
 ```
 The app will be available at `http://localhost:8000`.
 
+### Generate Static Site
+To export the site as static HTML:
+```bash
+deno task build
+```
+The output will be in the `dist/` directory, which can be hosted on any static web server (GitHub Pages, Netlify, etc.).
+
 ## Content Structure
 Add your project changelogs to the `content/repos/` directory:
 ```

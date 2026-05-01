@@ -23,7 +23,7 @@ interface ChangelogData {
 }
 
 // Utility to get all changelogs
-function getAllChangelogs(): ChangelogData[] {
+export function getAllChangelogs(): ChangelogData[] {
   if (!existsSync(CONTENT_PATH)) return [];
   
   const repoDirs = Array.from(Deno.readDirSync(CONTENT_PATH));
@@ -48,7 +48,7 @@ function getAllChangelogs(): ChangelogData[] {
 }
 
 // Layout Component
-const Layout = ({ children, repos, currentSlug }: { children: any, repos: ChangelogData[], currentSlug?: string }) => (
+export const Layout = ({ children, repos, currentSlug, isStatic = false }: { children: any, repos: ChangelogData[], currentSlug?: string, isStatic?: boolean }) => (
   <html lang="en">
     <head>
       <meta charset="UTF-8" />
@@ -61,7 +61,7 @@ const Layout = ({ children, repos, currentSlug }: { children: any, repos: Change
       <div class="layout">
         <aside class="sidebar">
           <div class="sidebar-header">
-            <a href="/" class="logo">
+            <a href={isStatic ? "/index.html" : "/"} class="logo">
               <span class="logo-icon">◈</span>
               <span>Earthbound Hub</span>
             </a>
@@ -74,7 +74,7 @@ const Layout = ({ children, repos, currentSlug }: { children: any, repos: Change
                 {repos.map((repo) => (
                   <li>
                     <a
-                      href={`/repo/${repo.slug}`}
+                      href={isStatic ? (repo.slug === currentSlug ? '#' : `/repo/${repo.slug}/index.html`) : `/repo/${repo.slug}`}
                       class={`nav-link ${currentSlug === repo.slug ? 'active' : ''}`}
                     >
                       <span>{repo.metadata.title}</span>
@@ -163,4 +163,6 @@ app.get("/repo/:slug", (c) => {
   );
 });
 
-Deno.serve(app.fetch);
+if (import.meta.main) {
+  Deno.serve(app.fetch);
+}
