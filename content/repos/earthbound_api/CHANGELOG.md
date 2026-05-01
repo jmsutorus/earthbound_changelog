@@ -1,26 +1,6 @@
----
-title: Earthbound API
-description: Core API for the Earthbound ecosystem
-repository: https://github.com/jmsutorus/earthbound_api
----
+# 1.0.0 (2026-05-01)
 
-# Changelog
 
-All notable changes to this project will be documented in this file.
+### Features
 
-## [1.2.0] - 2026-04-30
-
-### Added
-
-- New endpoints for Media management.
-- Integration with Firebase for authentication.
-
-### Changed
-
-- Refactored database queries to use Hono middleware.
-
-## [1.1.0] - 2026-04-25
-
-### Fixed
-
-- Issue with CORS headers in production.
+* changelog ([c9558be](https://github.com/jmsutorus/earthbound_api/commit/c9558be53c4da8d5a83a49f181a6eeb621d84664))
