@@ -1,9 +1,9 @@
-## [1.24.1](https://github.com/jmsutorus/homepage/compare/v1.24.0...v1.24.1) (2026-05-01)
+# [1.25.0](https://github.com/jmsutorus/homepage/compare/v1.24.1...v1.25.0) (2026-05-02)
 
 
-### Bug Fixes
+### Features
 
-* fixed workouts ([#106](https://github.com/jmsutorus/homepage/issues/106)) ([00f6690](https://github.com/jmsutorus/homepage/commit/00f6690eb695467c96b3512ab7e4bdb5812c9ad1))
+* Public profile added to a user ([#107](https://github.com/jmsutorus/homepage/issues/107)) ([16db535](https://github.com/jmsutorus/homepage/commit/16db5356985555d14f5f0b1b282041fd53f0761a))
 
 # [1.22.0](https://github.com/jmsutorus/homepage/compare/v1.21.3...v1.22.0) (2026-05-01)
 
