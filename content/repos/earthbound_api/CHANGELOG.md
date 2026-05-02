@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/jmsutorus/earthbound_api/compare/v1.0.2...v1.1.0) (2026-05-02)
+
+
+### Features
+
+* public profile ([54da398](https://github.com/jmsutorus/earthbound_api/commit/54da398ef4e0808d4bee3caff9b9840bf68b379e))
+
 ## [1.0.2](https://github.com/jmsutorus/earthbound_api/compare/v1.0.1...v1.0.2) (2026-05-01)
 
 
