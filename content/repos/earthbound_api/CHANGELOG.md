@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/jmsutorus/earthbound_api/compare/v1.2.0...v1.2.1) (2026-05-04)
+
+
+### Bug Fixes
+
+* calendar event bug fixes ([5971efc](https://github.com/jmsutorus/earthbound_api/commit/5971efc02d7ec180cfa174276adb0ce96c8d9d29))
+
 # [1.2.0](https://github.com/jmsutorus/earthbound_api/compare/v1.1.0...v1.2.0) (2026-05-04)
 
 
