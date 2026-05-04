@@ -1,9 +1,9 @@
-## [1.26.1](https://github.com/jmsutorus/homepage/compare/v1.26.0...v1.26.1) (2026-05-04)
+## [1.26.2](https://github.com/jmsutorus/homepage/compare/v1.26.1...v1.26.2) (2026-05-04)
 
 
 ### Bug Fixes
 
-* calendar page date bug fixes ([#113](https://github.com/jmsutorus/homepage/issues/113)) ([e312980](https://github.com/jmsutorus/homepage/commit/e312980bf576c221f7189951f75dca7f775d0caf))
+* creations enhncements ([#114](https://github.com/jmsutorus/homepage/issues/114)) ([f82b4bd](https://github.com/jmsutorus/homepage/commit/f82b4bd0a463980b4ce9a83065a9be716f511603))
 
 # [1.22.0](https://github.com/jmsutorus/homepage/compare/v1.21.3...v1.22.0) (2026-05-01)
 
