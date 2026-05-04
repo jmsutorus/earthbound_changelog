@@ -1,9 +1,9 @@
-## [1.26.2](https://github.com/jmsutorus/homepage/compare/v1.26.1...v1.26.2) (2026-05-04)
+## [1.26.3](https://github.com/jmsutorus/homepage/compare/v1.26.2...v1.26.3) (2026-05-04)
 
 
 ### Bug Fixes
 
-* creations enhncements ([#114](https://github.com/jmsutorus/homepage/issues/114)) ([f82b4bd](https://github.com/jmsutorus/homepage/commit/f82b4bd0a463980b4ce9a83065a9be716f511603))
+* auth ([#115](https://github.com/jmsutorus/homepage/issues/115)) ([29ce381](https://github.com/jmsutorus/homepage/commit/29ce381c516abf00641c8917dd5b715575cd9d58))
 
 # [1.22.0](https://github.com/jmsutorus/homepage/compare/v1.21.3...v1.22.0) (2026-05-01)
 
