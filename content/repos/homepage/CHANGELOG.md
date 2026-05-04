@@ -1,9 +1,9 @@
-# [1.25.0](https://github.com/jmsutorus/homepage/compare/v1.24.1...v1.25.0) (2026-05-02)
+# [1.26.0](https://github.com/jmsutorus/homepage/compare/v1.25.0...v1.26.0) (2026-05-04)
 
 
 ### Features
 
-* Public profile added to a user ([#107](https://github.com/jmsutorus/homepage/issues/107)) ([16db535](https://github.com/jmsutorus/homepage/commit/16db5356985555d14f5f0b1b282041fd53f0761a))
+* creations feature added ([#108](https://github.com/jmsutorus/homepage/issues/108)) ([867d3c0](https://github.com/jmsutorus/homepage/commit/867d3c04aa02819caa6206684ede002f8cf1bee5))
 
 # [1.22.0](https://github.com/jmsutorus/homepage/compare/v1.21.3...v1.22.0) (2026-05-01)
 
