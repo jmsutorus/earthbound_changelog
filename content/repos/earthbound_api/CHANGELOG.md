@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/jmsutorus/earthbound_api/compare/v1.1.0...v1.2.0) (2026-05-04)
+
+
+### Features
+
+* creation endpoints added ([ab19653](https://github.com/jmsutorus/earthbound_api/commit/ab196530a592efd04fd2a69bfa532736faf2552b))
+
 # [1.1.0](https://github.com/jmsutorus/earthbound_api/compare/v1.0.2...v1.1.0) (2026-05-02)
 
 
