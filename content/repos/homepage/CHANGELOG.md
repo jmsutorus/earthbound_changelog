@@ -1,10 +1,9 @@
-## [1.26.4](https://github.com/jmsutorus/homepage/compare/v1.26.3...v1.26.4) (2026-05-04)
+# [1.27.0](https://github.com/jmsutorus/homepage/compare/v1.26.4...v1.27.0) (2026-05-05)
 
 
-### Bug Fixes
+### Features
 
-* auth ([a16daae](https://github.com/jmsutorus/homepage/commit/a16daae661ed668c097449acd423410fac5fa962))
-* too ([aa4421a](https://github.com/jmsutorus/homepage/commit/aa4421a69d8bf3efa4a7470ab19ce629529107c8))
+* Haptic feedback ([#117](https://github.com/jmsutorus/homepage/issues/117)) ([0b573b3](https://github.com/jmsutorus/homepage/commit/0b573b346f159679c5e5a0c8698a20055ee056ec))
 
 # [1.22.0](https://github.com/jmsutorus/homepage/compare/v1.21.3...v1.22.0) (2026-05-01)
 
