@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/jmsutorus/earthbound_api/compare/v1.2.1...v1.3.0) (2026-05-06)
+
+
+### Features
+
+* bed times added ([c68942d](https://github.com/jmsutorus/earthbound_api/commit/c68942deeafe40ad9e645255257f3e3df087f260))
+
 ## [1.2.1](https://github.com/jmsutorus/earthbound_api/compare/v1.2.0...v1.2.1) (2026-05-04)
 
 
