@@ -1,9 +1,14 @@
-## [1.27.1](https://github.com/jmsutorus/homepage/compare/v1.27.0...v1.27.1) (2026-05-06)
+# [1.28.0](https://github.com/jmsutorus/homepage/compare/v1.27.1...v1.28.0) (2026-05-06)
 
 
 ### Bug Fixes
 
-* deprecated ingest ([#118](https://github.com/jmsutorus/homepage/issues/118)) ([d0d7add](https://github.com/jmsutorus/homepage/commit/d0d7add61575cb8e91dfed4379229811b4a33992))
+* imdb search ([#119](https://github.com/jmsutorus/homepage/issues/119)) ([17a6635](https://github.com/jmsutorus/homepage/commit/17a6635ccd96bd1d44a0f9c2a6fc52a03dcbfc83))
+
+
+### Features
+
+* bed times added ([#120](https://github.com/jmsutorus/homepage/issues/120)) ([14ceb50](https://github.com/jmsutorus/homepage/commit/14ceb505290b1353fcad36d3cd0c8a58047ae371))
 
 # [1.22.0](https://github.com/jmsutorus/homepage/compare/v1.21.3...v1.22.0) (2026-05-01)
 
