@@ -1,9 +1,9 @@
-# [1.27.0](https://github.com/jmsutorus/homepage/compare/v1.26.4...v1.27.0) (2026-05-05)
+## [1.27.1](https://github.com/jmsutorus/homepage/compare/v1.27.0...v1.27.1) (2026-05-06)
 
 
-### Features
+### Bug Fixes
 
-* Haptic feedback ([#117](https://github.com/jmsutorus/homepage/issues/117)) ([0b573b3](https://github.com/jmsutorus/homepage/commit/0b573b346f159679c5e5a0c8698a20055ee056ec))
+* deprecated ingest ([#118](https://github.com/jmsutorus/homepage/issues/118)) ([d0d7add](https://github.com/jmsutorus/homepage/commit/d0d7add61575cb8e91dfed4379229811b4a33992))
 
 # [1.22.0](https://github.com/jmsutorus/homepage/compare/v1.21.3...v1.22.0) (2026-05-01)
 
