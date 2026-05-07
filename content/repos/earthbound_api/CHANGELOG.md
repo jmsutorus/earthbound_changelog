@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/jmsutorus/earthbound_api/compare/v1.4.0...v1.5.0) (2026-05-07)
+
+
+### Features
+
+* nudges ([98ac309](https://github.com/jmsutorus/earthbound_api/commit/98ac30937dcd7c08b09e39981b14afd0bdce571e))
+
 # [1.4.0](https://github.com/jmsutorus/earthbound_api/compare/v1.3.0...v1.4.0) (2026-05-07)
 
 
