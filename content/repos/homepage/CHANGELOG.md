@@ -1,9 +1,9 @@
-## [1.29.1](https://github.com/jmsutorus/homepage/compare/v1.29.0...v1.29.1) (2026-05-07)
+# [1.30.0](https://github.com/jmsutorus/homepage/compare/v1.29.1...v1.30.0) (2026-05-07)
 
 
-### Bug Fixes
+### Features
 
-* mood bug fixes ([#122](https://github.com/jmsutorus/homepage/issues/122)) ([41fec5d](https://github.com/jmsutorus/homepage/commit/41fec5d7279f6e230fb7afe652e3c47047827587))
+* nudges feature added ([#123](https://github.com/jmsutorus/homepage/issues/123)) ([499d22c](https://github.com/jmsutorus/homepage/commit/499d22c008a3619add6b82871b11d835a2db8865))
 
 # [1.22.0](https://github.com/jmsutorus/homepage/compare/v1.21.3...v1.22.0) (2026-05-01)
 
