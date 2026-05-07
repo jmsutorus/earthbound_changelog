@@ -1,9 +1,9 @@
-# [1.29.0](https://github.com/jmsutorus/homepage/compare/v1.28.0...v1.29.0) (2026-05-07)
+## [1.29.1](https://github.com/jmsutorus/homepage/compare/v1.29.0...v1.29.1) (2026-05-07)
 
 
-### Features
+### Bug Fixes
 
-* Mood enhancements ([#121](https://github.com/jmsutorus/homepage/issues/121)) ([f047a56](https://github.com/jmsutorus/homepage/commit/f047a56c8eea1f778c86cfd3153041f725c8ead9))
+* mood bug fixes ([#122](https://github.com/jmsutorus/homepage/issues/122)) ([41fec5d](https://github.com/jmsutorus/homepage/commit/41fec5d7279f6e230fb7afe652e3c47047827587))
 
 # [1.22.0](https://github.com/jmsutorus/homepage/compare/v1.21.3...v1.22.0) (2026-05-01)
 
