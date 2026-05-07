@@ -1,14 +1,9 @@
-# [1.28.0](https://github.com/jmsutorus/homepage/compare/v1.27.1...v1.28.0) (2026-05-06)
-
-
-### Bug Fixes
-
-* imdb search ([#119](https://github.com/jmsutorus/homepage/issues/119)) ([17a6635](https://github.com/jmsutorus/homepage/commit/17a6635ccd96bd1d44a0f9c2a6fc52a03dcbfc83))
+# [1.29.0](https://github.com/jmsutorus/homepage/compare/v1.28.0...v1.29.0) (2026-05-07)
 
 
 ### Features
 
-* bed times added ([#120](https://github.com/jmsutorus/homepage/issues/120)) ([14ceb50](https://github.com/jmsutorus/homepage/commit/14ceb505290b1353fcad36d3cd0c8a58047ae371))
+* Mood enhancements ([#121](https://github.com/jmsutorus/homepage/issues/121)) ([f047a56](https://github.com/jmsutorus/homepage/commit/f047a56c8eea1f778c86cfd3153041f725c8ead9))
 
 # [1.22.0](https://github.com/jmsutorus/homepage/compare/v1.21.3...v1.22.0) (2026-05-01)
 
