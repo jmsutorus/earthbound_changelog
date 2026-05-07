@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/jmsutorus/earthbound_api/compare/v1.3.0...v1.4.0) (2026-05-07)
+
+
+### Features
+
+* mood table updated ([ba3a0c6](https://github.com/jmsutorus/earthbound_api/commit/ba3a0c6a014d74edcc9162d5f377ce4b83f1236e))
+
 # [1.3.0](https://github.com/jmsutorus/earthbound_api/compare/v1.2.1...v1.3.0) (2026-05-06)
 
 
