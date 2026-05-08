@@ -1,3 +1,10 @@
+## [1.5.1](https://github.com/jmsutorus/earthbound_api/compare/v1.5.0...v1.5.1) (2026-05-08)
+
+
+### Bug Fixes
+
+* journals api updated ([0cf65d7](https://github.com/jmsutorus/earthbound_api/commit/0cf65d785d9a9754036335a59b4824b4afe40d40))
+
 # [1.5.0](https://github.com/jmsutorus/earthbound_api/compare/v1.4.0...v1.5.0) (2026-05-07)
 
 
