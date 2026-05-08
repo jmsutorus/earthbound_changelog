@@ -1,9 +1,9 @@
-# [1.30.0](https://github.com/jmsutorus/homepage/compare/v1.29.1...v1.30.0) (2026-05-07)
+# [1.31.0](https://github.com/jmsutorus/homepage/compare/v1.30.0...v1.31.0) (2026-05-08)
 
 
 ### Features
 
-* nudges feature added ([#123](https://github.com/jmsutorus/homepage/issues/123)) ([499d22c](https://github.com/jmsutorus/homepage/commit/499d22c008a3619add6b82871b11d835a2db8865))
+* micro interaction added ([#124](https://github.com/jmsutorus/homepage/issues/124)) ([1fb3d14](https://github.com/jmsutorus/homepage/commit/1fb3d14cf3bcda557be15b7c386113df3b2ca5f4))
 
 # [1.22.0](https://github.com/jmsutorus/homepage/compare/v1.21.3...v1.22.0) (2026-05-01)
 
