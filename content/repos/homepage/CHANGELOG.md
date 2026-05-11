@@ -1,9 +1,9 @@
-# [1.31.0](https://github.com/jmsutorus/homepage/compare/v1.30.0...v1.31.0) (2026-05-08)
+# [1.32.0](https://github.com/jmsutorus/homepage/compare/v1.31.0...v1.32.0) (2026-05-11)
 
 
 ### Features
 
-* micro interaction added ([#124](https://github.com/jmsutorus/homepage/issues/124)) ([1fb3d14](https://github.com/jmsutorus/homepage/commit/1fb3d14cf3bcda557be15b7c386113df3b2ca5f4))
+* Onboarding ([#125](https://github.com/jmsutorus/homepage/issues/125)) ([ed78347](https://github.com/jmsutorus/homepage/commit/ed78347580c70a212683ce05766ca7b918ec29cc))
 
 # [1.22.0](https://github.com/jmsutorus/homepage/compare/v1.21.3...v1.22.0) (2026-05-01)
 
