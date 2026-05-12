@@ -1,3 +1,18 @@
+# [1.6.0](https://github.com/jmsutorus/earthbound_api/compare/v1.5.2...v1.6.0) (2026-05-12)
+
+
+### Bug Fixes
+
+* mcp server enhancements ([9776eed](https://github.com/jmsutorus/earthbound_api/commit/9776eed21d50113e33aa3dcd8e322169c6e39ef7))
+* mcp server enhancements ([48f884c](https://github.com/jmsutorus/earthbound_api/commit/48f884c5471d91c92e66b2a2cc1497dfc4514c7a))
+
+
+### Features
+
+* mcp server added ([090ceab](https://github.com/jmsutorus/earthbound_api/commit/090ceab2ab295900d9689ecfa0c10b02ae6b0cad))
+* mcp updates ([4972be6](https://github.com/jmsutorus/earthbound_api/commit/4972be6af142f53346ee0f8c3c36ee204b0f5166))
+* weekly report ([89ad4e3](https://github.com/jmsutorus/earthbound_api/commit/89ad4e392be0d2a9c466379435a9f85b154e50f9))
+
 ## [1.5.2](https://github.com/jmsutorus/earthbound_api/compare/v1.5.1...v1.5.2) (2026-05-09)
 
 
