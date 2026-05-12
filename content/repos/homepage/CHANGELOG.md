@@ -1,9 +1,9 @@
-# [1.32.0](https://github.com/jmsutorus/homepage/compare/v1.31.0...v1.32.0) (2026-05-11)
+# [1.33.0](https://github.com/jmsutorus/homepage/compare/v1.32.0...v1.33.0) (2026-05-12)
 
 
 ### Features
 
-* Onboarding ([#125](https://github.com/jmsutorus/homepage/issues/125)) ([ed78347](https://github.com/jmsutorus/homepage/commit/ed78347580c70a212683ce05766ca7b918ec29cc))
+* Chat interface ([#126](https://github.com/jmsutorus/homepage/issues/126)) ([dcf82a6](https://github.com/jmsutorus/homepage/commit/dcf82a69afce1dbbf99d9ba8fe3ca15c07571fa8))
 
 # [1.22.0](https://github.com/jmsutorus/homepage/compare/v1.21.3...v1.22.0) (2026-05-01)
 
