@@ -1,9 +1,9 @@
-# [1.33.0](https://github.com/jmsutorus/homepage/compare/v1.32.0...v1.33.0) (2026-05-12)
+# [1.34.0](https://github.com/jmsutorus/homepage/compare/v1.33.0...v1.34.0) (2026-05-13)
 
 
 ### Features
 
-* Chat interface ([#126](https://github.com/jmsutorus/homepage/issues/126)) ([dcf82a6](https://github.com/jmsutorus/homepage/commit/dcf82a69afce1dbbf99d9ba8fe3ca15c07571fa8))
+* lots of mobile enhancements ([#151](https://github.com/jmsutorus/homepage/issues/151)) ([e97aba8](https://github.com/jmsutorus/homepage/commit/e97aba89e965ac61dc68b1476910302ff8abe22c))
 
 # [1.22.0](https://github.com/jmsutorus/homepage/compare/v1.21.3...v1.22.0) (2026-05-01)
 
