@@ -1,9 +1,9 @@
-# [1.34.0](https://github.com/jmsutorus/homepage/compare/v1.33.0...v1.34.0) (2026-05-13)
+# [1.35.0](https://github.com/jmsutorus/homepage/compare/v1.34.0...v1.35.0) (2026-05-13)
 
 
 ### Features
 
-* lots of mobile enhancements ([#151](https://github.com/jmsutorus/homepage/issues/151)) ([e97aba8](https://github.com/jmsutorus/homepage/commit/e97aba89e965ac61dc68b1476910302ff8abe22c))
+* mobile feature updates and bug fixes ([#152](https://github.com/jmsutorus/homepage/issues/152)) ([b6d2280](https://github.com/jmsutorus/homepage/commit/b6d2280ca70c82fd70dfb56b9f9c24196726b1fe))
 
 # [1.22.0](https://github.com/jmsutorus/homepage/compare/v1.21.3...v1.22.0) (2026-05-01)
 
