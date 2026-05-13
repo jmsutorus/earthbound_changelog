@@ -1,9 +1,9 @@
-# [1.35.0](https://github.com/jmsutorus/homepage/compare/v1.34.0...v1.35.0) (2026-05-13)
+# [1.36.0](https://github.com/jmsutorus/homepage/compare/v1.35.0...v1.36.0) (2026-05-13)
 
 
 ### Features
 
-* mobile feature updates and bug fixes ([#152](https://github.com/jmsutorus/homepage/issues/152)) ([b6d2280](https://github.com/jmsutorus/homepage/commit/b6d2280ca70c82fd70dfb56b9f9c24196726b1fe))
+* haptic feedback applied to create buttons ([#153](https://github.com/jmsutorus/homepage/issues/153)) ([79fdd2c](https://github.com/jmsutorus/homepage/commit/79fdd2c2cf2f59beec9762a49f57b19dc8725a3e))
 
 # [1.22.0](https://github.com/jmsutorus/homepage/compare/v1.21.3...v1.22.0) (2026-05-01)
 
