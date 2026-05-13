@@ -1,3 +1,10 @@
+## [1.6.1](https://github.com/jmsutorus/earthbound_api/compare/v1.6.0...v1.6.1) (2026-05-13)
+
+
+### Bug Fixes
+
+* media endpoints ([13b5824](https://github.com/jmsutorus/earthbound_api/commit/13b58247a82be90320ea2c7b20004f3eeccac276))
+
 # [1.6.0](https://github.com/jmsutorus/earthbound_api/compare/v1.5.2...v1.6.0) (2026-05-12)
 
 
