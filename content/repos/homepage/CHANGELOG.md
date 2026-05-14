@@ -1,9 +1,9 @@
-# [1.36.0](https://github.com/jmsutorus/homepage/compare/v1.35.0...v1.36.0) (2026-05-13)
+# [1.37.0](https://github.com/jmsutorus/homepage/compare/v1.36.0...v1.37.0) (2026-05-14)
 
 
 ### Features
 
-* haptic feedback applied to create buttons ([#153](https://github.com/jmsutorus/homepage/issues/153)) ([79fdd2c](https://github.com/jmsutorus/homepage/commit/79fdd2c2cf2f59beec9762a49f57b19dc8725a3e))
+* trailhead page added ([#156](https://github.com/jmsutorus/homepage/issues/156)) ([172bf89](https://github.com/jmsutorus/homepage/commit/172bf8946cea1b38c59c93023e3c877a4f506c56))
 
 # [1.22.0](https://github.com/jmsutorus/homepage/compare/v1.21.3...v1.22.0) (2026-05-01)
 
