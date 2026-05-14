@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/jmsutorus/earthbound_api/compare/v1.6.3...v1.7.0) (2026-05-14)
+
+
+### Features
+
+* update prompts ([d0929ea](https://github.com/jmsutorus/earthbound_api/commit/d0929ea5f67638db3c088d5b0b24eac46c245684))
+
 ## [1.6.3](https://github.com/jmsutorus/earthbound_api/compare/v1.6.2...v1.6.3) (2026-05-13)
 
 
