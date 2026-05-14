@@ -1,9 +1,9 @@
-# [1.37.0](https://github.com/jmsutorus/homepage/compare/v1.36.0...v1.37.0) (2026-05-14)
+# [1.38.0](https://github.com/jmsutorus/homepage/compare/v1.37.0...v1.38.0) (2026-05-14)
 
 
 ### Features
 
-* trailhead page added ([#156](https://github.com/jmsutorus/homepage/issues/156)) ([172bf89](https://github.com/jmsutorus/homepage/commit/172bf8946cea1b38c59c93023e3c877a4f506c56))
+* ui improvements for users ([#185](https://github.com/jmsutorus/homepage/issues/185)) ([87157b4](https://github.com/jmsutorus/homepage/commit/87157b44605b076bd52a9274c430829115d57300))
 
 # [1.22.0](https://github.com/jmsutorus/homepage/compare/v1.21.3...v1.22.0) (2026-05-01)
 
