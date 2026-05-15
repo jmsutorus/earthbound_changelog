@@ -1,9 +1,9 @@
-# [1.38.0](https://github.com/jmsutorus/homepage/compare/v1.37.0...v1.38.0) (2026-05-14)
+# [1.39.0](https://github.com/jmsutorus/homepage/compare/v1.38.0...v1.39.0) (2026-05-15)
 
 
 ### Features
 
-* ui improvements for users ([#185](https://github.com/jmsutorus/homepage/issues/185)) ([87157b4](https://github.com/jmsutorus/homepage/commit/87157b44605b076bd52a9274c430829115d57300))
+* pwa perf ([#186](https://github.com/jmsutorus/homepage/issues/186)) ([56c8446](https://github.com/jmsutorus/homepage/commit/56c8446c2f5f54a7c9c28cd927b236ff455c0423))
 
 # [1.22.0](https://github.com/jmsutorus/homepage/compare/v1.21.3...v1.22.0) (2026-05-01)
 
