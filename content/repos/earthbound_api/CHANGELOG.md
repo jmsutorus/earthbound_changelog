@@ -1,3 +1,16 @@
+# [1.8.0](https://github.com/jmsutorus/earthbound_api/compare/v1.7.0...v1.8.0) (2026-05-15)
+
+
+### Bug Fixes
+
+* bugs ([08c4c7e](https://github.com/jmsutorus/earthbound_api/commit/08c4c7e99f1a2d53755ef4b10959b164cd126f49))
+* linging errors ([22d703b](https://github.com/jmsutorus/earthbound_api/commit/22d703b9f927efbb9dcc42266674cb185e8b88de))
+
+
+### Features
+
+* meals gen ([cd2f1ce](https://github.com/jmsutorus/earthbound_api/commit/cd2f1cefce214f206e7989d2c2c84b91f92c5b5b))
+
 # [1.7.0](https://github.com/jmsutorus/earthbound_api/compare/v1.6.3...v1.7.0) (2026-05-14)
 
 
