@@ -1,3 +1,10 @@
+## [1.8.1](https://github.com/jmsutorus/earthbound_api/compare/v1.8.0...v1.8.1) (2026-05-16)
+
+
+### Bug Fixes
+
+* type issues ([387bfb2](https://github.com/jmsutorus/earthbound_api/commit/387bfb2b4868c81ed4930d6d581be7e379f6ef4a))
+
 # [1.8.0](https://github.com/jmsutorus/earthbound_api/compare/v1.7.0...v1.8.0) (2026-05-15)
 
 
