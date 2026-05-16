@@ -1,9 +1,9 @@
-# [1.39.0](https://github.com/jmsutorus/homepage/compare/v1.38.0...v1.39.0) (2026-05-15)
+# [1.40.0](https://github.com/jmsutorus/homepage/compare/v1.39.0...v1.40.0) (2026-05-16)
 
 
 ### Features
 
-* pwa perf ([#186](https://github.com/jmsutorus/homepage/issues/186)) ([56c8446](https://github.com/jmsutorus/homepage/commit/56c8446c2f5f54a7c9c28cd927b236ff455c0423))
+* custom badges ([#189](https://github.com/jmsutorus/homepage/issues/189)) ([62b8fcb](https://github.com/jmsutorus/homepage/commit/62b8fcbeb77e25388fce0f45a610c7e2134ae587))
 
 # [1.22.0](https://github.com/jmsutorus/homepage/compare/v1.21.3...v1.22.0) (2026-05-01)
 
