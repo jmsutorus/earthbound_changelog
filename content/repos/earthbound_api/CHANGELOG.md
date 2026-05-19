@@ -1,3 +1,15 @@
+# [1.9.0](https://github.com/jmsutorus/earthbound_api/compare/v1.8.1...v1.9.0) (2026-05-19)
+
+
+### Bug Fixes
+
+* linting errors ([1ca5f36](https://github.com/jmsutorus/earthbound_api/commit/1ca5f3637bfe3ed12f5e3f957aa837a5834c2925))
+
+
+### Features
+
+* minor changes ([da94615](https://github.com/jmsutorus/earthbound_api/commit/da9461523d8f193208d56fdf7b788147cac29169))
+
 ## [1.8.1](https://github.com/jmsutorus/earthbound_api/compare/v1.8.0...v1.8.1) (2026-05-16)
 
 
