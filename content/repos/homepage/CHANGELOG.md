@@ -1,9 +1,9 @@
-# [1.40.0](https://github.com/jmsutorus/homepage/compare/v1.39.0...v1.40.0) (2026-05-16)
+# [1.41.0](https://github.com/jmsutorus/homepage/compare/v1.40.0...v1.41.0) (2026-05-19)
 
 
 ### Features
 
-* custom badges ([#189](https://github.com/jmsutorus/homepage/issues/189)) ([62b8fcb](https://github.com/jmsutorus/homepage/commit/62b8fcbeb77e25388fce0f45a610c7e2134ae587))
+* major app overhaul ([#219](https://github.com/jmsutorus/homepage/issues/219)) ([9a4dad7](https://github.com/jmsutorus/homepage/commit/9a4dad7dd35aaf9211e5bce3383b388b7e9cfc7e))
 
 # [1.22.0](https://github.com/jmsutorus/homepage/compare/v1.21.3...v1.22.0) (2026-05-01)
 
