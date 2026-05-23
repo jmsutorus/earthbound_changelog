@@ -1,3 +1,10 @@
+# [1.10.0](https://github.com/jmsutorus/earthbound_api/compare/v1.9.0...v1.10.0) (2026-05-23)
+
+
+### Features
+
+* lots of media changes ([fa054df](https://github.com/jmsutorus/earthbound_api/commit/fa054dfeb08065421d5596c6913e7a42f354a5f5))
+
 # [1.9.0](https://github.com/jmsutorus/earthbound_api/compare/v1.8.1...v1.9.0) (2026-05-19)
 
 
