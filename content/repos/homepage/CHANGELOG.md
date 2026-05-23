@@ -1,9 +1,9 @@
-# [1.42.0](https://github.com/jmsutorus/homepage/compare/v1.41.0...v1.42.0) (2026-05-23)
+# [1.43.0](https://github.com/jmsutorus/homepage/compare/v1.42.0...v1.43.0) (2026-05-23)
 
 
 ### Features
 
-* many feats ([#229](https://github.com/jmsutorus/homepage/issues/229)) ([268f08e](https://github.com/jmsutorus/homepage/commit/268f08e190880746d96c0dbc5c311397bdaeb0e7))
+* **devops:** add /add-button skill and button showcase page ([#228](https://github.com/jmsutorus/homepage/issues/228)) ([bbfd4e5](https://github.com/jmsutorus/homepage/commit/bbfd4e5125e727e83238f483a79a57df951a9e9c))
 
 # [1.22.0](https://github.com/jmsutorus/homepage/compare/v1.21.3...v1.22.0) (2026-05-01)
 
