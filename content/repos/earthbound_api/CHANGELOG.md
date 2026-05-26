@@ -1,3 +1,10 @@
+# [1.11.0](https://github.com/jmsutorus/earthbound_api/compare/v1.10.0...v1.11.0) (2026-05-26)
+
+
+### Features
+
+* creation objects updated ([6ea1305](https://github.com/jmsutorus/earthbound_api/commit/6ea13059bad11d7c81ae0be4e5ac0c08aca3fdaf))
+
 # [1.10.0](https://github.com/jmsutorus/earthbound_api/compare/v1.9.0...v1.10.0) (2026-05-23)
 
 
