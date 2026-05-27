@@ -1,6 +1,6 @@
-# [1.45.0](https://github.com/jmsutorus/homepage/compare/v1.44.0...v1.45.0) (2026-05-26)
+# [1.46.0](https://github.com/jmsutorus/homepage/compare/v1.45.0...v1.46.0) (2026-05-27)
 
 
 ### Features
 
-* creations ui updated ([#235](https://github.com/jmsutorus/homepage/issues/235)) ([dfad51b](https://github.com/jmsutorus/homepage/commit/dfad51b71c81f553011e4a08c66c5d6483b07c9f))
+* Migration to postgres ([#236](https://github.com/jmsutorus/homepage/issues/236)) ([700b2a5](https://github.com/jmsutorus/homepage/commit/700b2a5f678b6125f9d850a8bfd7db423986d29f))
