@@ -1,3 +1,15 @@
+# [1.12.0](https://github.com/jmsutorus/earthbound_api/compare/v1.11.0...v1.12.0) (2026-05-27)
+
+
+### Bug Fixes
+
+* build ([5b7b1d9](https://github.com/jmsutorus/earthbound_api/commit/5b7b1d9010bf498cc1d9a610ad85b09c755118f7))
+
+
+### Features
+
+* migration ([e4da96a](https://github.com/jmsutorus/earthbound_api/commit/e4da96a65e80f8b82332ac9ceaa83ab8487cee5a))
+
 # [1.11.0](https://github.com/jmsutorus/earthbound_api/compare/v1.10.0...v1.11.0) (2026-05-26)
 
 
