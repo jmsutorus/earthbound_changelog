@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/jmsutorus/earthbound-functions/compare/v1.0.1...v1.1.0) (2026-06-01)
+
+
+### Features
+
+* weekly chronicle ([2ff9d2f](https://github.com/jmsutorus/earthbound-functions/commit/2ff9d2f279116a14394db9f3fc6735dfbd8a462c))
+
 ## [1.0.1](https://github.com/jmsutorus/earthbound-functions/compare/v1.0.0...v1.0.1) (2026-05-04)
 
 
