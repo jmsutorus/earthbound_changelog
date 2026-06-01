@@ -1,3 +1,10 @@
+# [1.14.0](https://github.com/jmsutorus/earthbound_api/compare/v1.13.1...v1.14.0) (2026-06-01)
+
+
+### Features
+
+* month details endpoints ([7f89bbf](https://github.com/jmsutorus/earthbound_api/commit/7f89bbfafa55d8966f272fec8c4f98d661956413))
+
 ## [1.13.1](https://github.com/jmsutorus/earthbound_api/compare/v1.13.0...v1.13.1) (2026-06-01)
 
 
