@@ -1,6 +1,6 @@
-## [1.50.2](https://github.com/jmsutorus/homepage/compare/v1.50.1...v1.50.2) (2026-06-02)
+## [1.50.3](https://github.com/jmsutorus/homepage/compare/v1.50.2...v1.50.3) (2026-06-02)
 
 
 ### Bug Fixes
 
-* landing page scroll fix ([#249](https://github.com/jmsutorus/homepage/issues/249)) ([3032fc6](https://github.com/jmsutorus/homepage/commit/3032fc61f8fc7e6f6e509f472023d5cd5f68279f))
+* landing page scroll fix ([#250](https://github.com/jmsutorus/homepage/issues/250)) ([e15e803](https://github.com/jmsutorus/homepage/commit/e15e8030c7df34de788e76029f660ce3b3ac7387))
