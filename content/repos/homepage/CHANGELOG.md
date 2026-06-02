@@ -1,6 +1,6 @@
-# [1.50.0](https://github.com/jmsutorus/homepage/compare/v1.49.0...v1.50.0) (2026-06-01)
+## [1.50.1](https://github.com/jmsutorus/homepage/compare/v1.50.0...v1.50.1) (2026-06-02)
 
 
-### Features
+### Bug Fixes
 
-* month detail page added back ([#247](https://github.com/jmsutorus/homepage/issues/247)) ([777a151](https://github.com/jmsutorus/homepage/commit/777a151aee20979fad03c7c7e89b8dbb995379e8))
+* bug fixes ([#248](https://github.com/jmsutorus/homepage/issues/248)) ([af11683](https://github.com/jmsutorus/homepage/commit/af116836eef8e9884bfbbf5b14808d7e4c772ec8))
