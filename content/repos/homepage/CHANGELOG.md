@@ -1,6 +1,6 @@
-## [1.50.4](https://github.com/jmsutorus/homepage/compare/v1.50.3...v1.50.4) (2026-06-03)
+# [1.51.0](https://github.com/jmsutorus/homepage/compare/v1.50.4...v1.51.0) (2026-06-03)
 
 
-### Bug Fixes
+### Features
 
-* prevent iOS auto-zoom on input focus in mobile PWA ([#253](https://github.com/jmsutorus/homepage/issues/253)) ([224316a](https://github.com/jmsutorus/homepage/commit/224316aee9c0122960d6c9576ac1fd53912d5d93))
+* name updated ([#255](https://github.com/jmsutorus/homepage/issues/255)) ([94b76df](https://github.com/jmsutorus/homepage/commit/94b76dfdb5aa0cbb194ec7faadcc0accd2b5be7c))
