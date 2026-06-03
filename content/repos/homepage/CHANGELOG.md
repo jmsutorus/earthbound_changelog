@@ -1,6 +1,6 @@
-## [1.50.3](https://github.com/jmsutorus/homepage/compare/v1.50.2...v1.50.3) (2026-06-02)
+## [1.50.4](https://github.com/jmsutorus/homepage/compare/v1.50.3...v1.50.4) (2026-06-03)
 
 
 ### Bug Fixes
 
-* landing page scroll fix ([#250](https://github.com/jmsutorus/homepage/issues/250)) ([e15e803](https://github.com/jmsutorus/homepage/commit/e15e8030c7df34de788e76029f660ce3b3ac7387))
+* prevent iOS auto-zoom on input focus in mobile PWA ([#253](https://github.com/jmsutorus/homepage/issues/253)) ([224316a](https://github.com/jmsutorus/homepage/commit/224316aee9c0122960d6c9576ac1fd53912d5d93))
