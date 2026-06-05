@@ -1,6 +1,6 @@
-## [1.51.1](https://github.com/jmsutorus/homepage/compare/v1.51.0...v1.51.1) (2026-06-04)
+# [1.52.0](https://github.com/jmsutorus/homepage/compare/v1.51.1...v1.52.0) (2026-06-05)
 
 
-### Bug Fixes
+### Features
 
-* name changes ([#256](https://github.com/jmsutorus/homepage/issues/256)) ([d8a7749](https://github.com/jmsutorus/homepage/commit/d8a77491283ac08ddb2360707aa5a78552d71c40))
+* workout custom assets ([#260](https://github.com/jmsutorus/homepage/issues/260)) ([2a7f8f2](https://github.com/jmsutorus/homepage/commit/2a7f8f2e83e2bc1d68827430b6e8e6c73e252214))
