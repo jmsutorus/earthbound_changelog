@@ -1,3 +1,10 @@
+# [1.15.0](https://github.com/jmsutorus/earthbound_api/compare/v1.14.0...v1.15.0) (2026-06-05)
+
+
+### Features
+
+* workout improvements ([6d914ad](https://github.com/jmsutorus/earthbound_api/commit/6d914adf0d1bd887fd575c4ed519bae111a51b7b))
+
 # [1.14.0](https://github.com/jmsutorus/earthbound_api/compare/v1.13.1...v1.14.0) (2026-06-01)
 
 
