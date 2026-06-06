@@ -1,3 +1,18 @@
+# [1.16.0](https://github.com/jmsutorus/earthbound_api/compare/v1.15.0...v1.16.0) (2026-06-06)
+
+
+### Bug Fixes
+
+* add missing COLUMN_RESTORE entries for restaurant visit fields ([5b33fad](https://github.com/jmsutorus/earthbound_api/commit/5b33fad40a59caeeb1d273a38cc3adc19d9a63ca))
+* media bugs ([bcd0e4c](https://github.com/jmsutorus/earthbound_api/commit/bcd0e4c382dc65a3884501c401dfe754e3ae029c))
+* tests ([3eca6d4](https://github.com/jmsutorus/earthbound_api/commit/3eca6d4f21a68474adcb98ec7381989d28ad0e28))
+* workout improvements ([de8ec7c](https://github.com/jmsutorus/earthbound_api/commit/de8ec7cbc062e954e3e90ff2ce7285f48f6ab915))
+
+
+### Features
+
+* workout data updated ([dd31c48](https://github.com/jmsutorus/earthbound_api/commit/dd31c482a325941b2615b34002d99101627e012c))
+
 # [1.15.0](https://github.com/jmsutorus/earthbound_api/compare/v1.14.0...v1.15.0) (2026-06-05)
 
 
