@@ -1,6 +1,6 @@
-# [1.55.0](https://github.com/jmsutorus/homepage/compare/v1.54.0...v1.55.0) (2026-06-06)
+## [1.55.1](https://github.com/jmsutorus/homepage/compare/v1.55.0...v1.55.1) (2026-06-08)
 
 
-### Features
+### Bug Fixes
 
-* Add weekly run distance line graph to exercise history tab ([#262](https://github.com/jmsutorus/homepage/issues/262)) ([1485780](https://github.com/jmsutorus/homepage/commit/148578016e346ff2b3315d337d5421aa9a0b1c39)), closes [#fd876](https://github.com/jmsutorus/homepage/issues/fd876)
+* bug fixes ([#276](https://github.com/jmsutorus/homepage/issues/276)) ([80ff60e](https://github.com/jmsutorus/homepage/commit/80ff60e1797705acf26b538a8397d24790ade005))
