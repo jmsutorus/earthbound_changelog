@@ -1,3 +1,11 @@
+## [1.16.1](https://github.com/jmsutorus/earthbound_api/compare/v1.16.0...v1.16.1) (2026-06-08)
+
+
+### Bug Fixes
+
+* broken tests fixed ([e32e8c3](https://github.com/jmsutorus/earthbound_api/commit/e32e8c30bf1e50b70876783ba445f7ba2641d5a3))
+* various bug fixes ([1708583](https://github.com/jmsutorus/earthbound_api/commit/17085836427d7dc37ef53a3f176cf2a67f111993))
+
 # [1.16.0](https://github.com/jmsutorus/earthbound_api/compare/v1.15.0...v1.16.0) (2026-06-06)
 
 
