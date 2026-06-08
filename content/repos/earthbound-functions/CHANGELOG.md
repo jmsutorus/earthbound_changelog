@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/jmsutorus/earthbound-functions/compare/v1.1.0...v1.1.1) (2026-06-08)
+
+
+### Bug Fixes
+
+* fixed bad times ([d7ae305](https://github.com/jmsutorus/earthbound-functions/commit/d7ae3053975c0fbde01aa7db80d771d32bfcd7b2))
+
 # [1.1.0](https://github.com/jmsutorus/earthbound-functions/compare/v1.0.1...v1.1.0) (2026-06-01)
 
 
