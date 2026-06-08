@@ -1,3 +1,15 @@
+# [1.2.0](https://github.com/jmsutorus/terraDocs/compare/v1.1.0...v1.2.0) (2026-06-08)
+
+
+### Bug Fixes
+
+* build issues ([5d44a5a](https://github.com/jmsutorus/terraDocs/commit/5d44a5a2eda78c90d30e4d79640b7fbbfe860d07))
+
+
+### Features
+
+* june blogs posted ([be55fa7](https://github.com/jmsutorus/terraDocs/commit/be55fa744da950a62b523e0943929029cfed0b85))
+
 # [1.1.0](https://github.com/jmsutorus/terraDocs/compare/v1.0.0...v1.1.0) (2026-06-03)
 
 
