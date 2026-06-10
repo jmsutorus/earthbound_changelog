@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/jmsutorus/earthbound-functions/compare/v1.1.1...v1.2.0) (2026-06-10)
+
+
+### Features
+
+* relat notifs ([61933f4](https://github.com/jmsutorus/earthbound-functions/commit/61933f426759471ca32a2d9043a5644609549610))
+
 ## [1.1.1](https://github.com/jmsutorus/earthbound-functions/compare/v1.1.0...v1.1.1) (2026-06-08)
 
 
