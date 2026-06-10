@@ -1,6 +1,6 @@
-## [1.55.2](https://github.com/jmsutorus/homepage/compare/v1.55.1...v1.55.2) (2026-06-08)
+# [1.56.0](https://github.com/jmsutorus/homepage/compare/v1.55.2...v1.56.0) (2026-06-10)
 
 
-### Bug Fixes
+### Features
 
-* users able to record restraunt visits ([#277](https://github.com/jmsutorus/homepage/issues/277)) ([d31ab7f](https://github.com/jmsutorus/homepage/commit/d31ab7f606680fb9016684ba8aadfa40db67ab81))
+* relationship feature expanded ([#278](https://github.com/jmsutorus/homepage/issues/278)) ([55ee381](https://github.com/jmsutorus/homepage/commit/55ee3813baf0f09ab5848a034aca950425dbf6bc))
