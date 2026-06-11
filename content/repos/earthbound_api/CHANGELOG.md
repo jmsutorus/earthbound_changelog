@@ -1,3 +1,11 @@
+# [1.18.0](https://github.com/jmsutorus/earthbound_api/compare/v1.17.0...v1.18.0) (2026-06-11)
+
+
+### Features
+
+* daily ([40ae564](https://github.com/jmsutorus/earthbound_api/commit/40ae564c916abad3c3d7e8ce82821293936d937c))
+* finised ([dd740e6](https://github.com/jmsutorus/earthbound_api/commit/dd740e66b88deb966fc5bee9998834754617c17c))
+
 # [1.17.0](https://github.com/jmsutorus/earthbound_api/compare/v1.16.1...v1.17.0) (2026-06-10)
 
 
