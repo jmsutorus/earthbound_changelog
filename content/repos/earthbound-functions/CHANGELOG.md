@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/jmsutorus/earthbound-functions/compare/v1.2.0...v1.2.1) (2026-06-11)
+
+
+### Bug Fixes
+
+* notif bug ([1d18c1f](https://github.com/jmsutorus/earthbound-functions/commit/1d18c1fb179799753f776f2a35cc23102d83833d))
+
 # [1.2.0](https://github.com/jmsutorus/earthbound-functions/compare/v1.1.1...v1.2.0) (2026-06-10)
 
 
