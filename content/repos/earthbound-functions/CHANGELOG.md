@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/jmsutorus/earthbound-functions/compare/v1.2.1...v1.2.2) (2026-06-12)
+
+
+### Bug Fixes
+
+* postgres bugs ([f0f8171](https://github.com/jmsutorus/earthbound-functions/commit/f0f8171b0b352912c1603dde15ff8a580d6b4c37))
+
 ## [1.2.1](https://github.com/jmsutorus/earthbound-functions/compare/v1.2.0...v1.2.1) (2026-06-11)
 
 
