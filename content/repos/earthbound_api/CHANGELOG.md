@@ -1,3 +1,10 @@
+# [1.19.0](https://github.com/jmsutorus/earthbound_api/compare/v1.18.0...v1.19.0) (2026-06-12)
+
+
+### Features
+
+* ux improvements ([c96e6ea](https://github.com/jmsutorus/earthbound_api/commit/c96e6ea93b87781c592c1da7b93f44cf22333110))
+
 # [1.18.0](https://github.com/jmsutorus/earthbound_api/compare/v1.17.0...v1.18.0) (2026-06-11)
 
 
