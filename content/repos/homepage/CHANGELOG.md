@@ -1,6 +1,6 @@
-# [1.61.0](https://github.com/jmsutorus/homepage/compare/v1.60.0...v1.61.0) (2026-06-12)
+## [1.61.1](https://github.com/jmsutorus/homepage/compare/v1.61.0...v1.61.1) (2026-06-12)
 
 
-### Features
+### Bug Fixes
 
-* import strava activities ([#296](https://github.com/jmsutorus/homepage/issues/296)) ([c8164f4](https://github.com/jmsutorus/homepage/commit/c8164f4a293997a67f16bff987bbf80aeb57c916))
+* strva url ([#298](https://github.com/jmsutorus/homepage/issues/298)) ([ed3fde2](https://github.com/jmsutorus/homepage/commit/ed3fde227698feb4b1ae6588223e320e30bb8797))
