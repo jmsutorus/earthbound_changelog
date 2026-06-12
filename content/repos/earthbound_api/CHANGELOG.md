@@ -1,3 +1,10 @@
+# [1.21.0](https://github.com/jmsutorus/earthbound_api/compare/v1.20.0...v1.21.0) (2026-06-12)
+
+
+### Features
+
+* import strava workouts ([916c783](https://github.com/jmsutorus/earthbound_api/commit/916c783833446c7f886c566af551d948e73a2b62))
+
 # [1.20.0](https://github.com/jmsutorus/earthbound_api/compare/v1.19.0...v1.20.0) (2026-06-12)
 
 
