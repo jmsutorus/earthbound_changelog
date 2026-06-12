@@ -1,3 +1,10 @@
+# [1.20.0](https://github.com/jmsutorus/earthbound_api/compare/v1.19.0...v1.20.0) (2026-06-12)
+
+
+### Features
+
+* bug fixes to the relationships ([222d053](https://github.com/jmsutorus/earthbound_api/commit/222d053f9618ba176bbae8e0836c4c142834a07c))
+
 # [1.19.0](https://github.com/jmsutorus/earthbound_api/compare/v1.18.0...v1.19.0) (2026-06-12)
 
 
