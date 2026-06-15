@@ -1,3 +1,10 @@
+# [1.22.0](https://github.com/jmsutorus/earthbound_api/compare/v1.21.0...v1.22.0) (2026-06-15)
+
+
+### Features
+
+* materials and giftcards added ([e515a9f](https://github.com/jmsutorus/earthbound_api/commit/e515a9f3c886589ec5c7ca6a5fea3c0abfae0dd2))
+
 # [1.21.0](https://github.com/jmsutorus/earthbound_api/compare/v1.20.0...v1.21.0) (2026-06-12)
 
 
