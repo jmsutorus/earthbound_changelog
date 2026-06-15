@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/jmsutorus/terraDocs/compare/v1.3.0...v1.4.0) (2026-06-15)
+
+
+### Features
+
+* updated blog posts ([6378e18](https://github.com/jmsutorus/terraDocs/commit/6378e18d2d91670d31bdd381dc8551c0fbbd81f3))
+
 # [1.3.0](https://github.com/jmsutorus/terraDocs/compare/v1.2.0...v1.3.0) (2026-06-12)
 
 
