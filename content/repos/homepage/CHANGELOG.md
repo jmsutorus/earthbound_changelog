@@ -1,6 +1,6 @@
-## [1.61.6](https://github.com/jmsutorus/homepage/compare/v1.61.5...v1.61.6) (2026-06-13)
+# [1.62.0](https://github.com/jmsutorus/homepage/compare/v1.61.6...v1.62.0) (2026-06-15)
 
 
-### Bug Fixes
+### Features
 
-* minor ui issue int the today page ([#305](https://github.com/jmsutorus/homepage/issues/305)) ([c19cea2](https://github.com/jmsutorus/homepage/commit/c19cea2a8e3e4b79c8225e7ef6a82917ea131d29))
+* materials and giftcards added ([#306](https://github.com/jmsutorus/homepage/issues/306)) ([25f5efe](https://github.com/jmsutorus/homepage/commit/25f5efe8335b3f11d08e1a185e32a2a63c543c1c))
