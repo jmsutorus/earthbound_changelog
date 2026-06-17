@@ -1,6 +1,6 @@
-# [1.62.0](https://github.com/jmsutorus/homepage/compare/v1.61.6...v1.62.0) (2026-06-15)
+# [1.63.0](https://github.com/jmsutorus/homepage/compare/v1.62.0...v1.63.0) (2026-06-17)
 
 
 ### Features
 
-* materials and giftcards added ([#306](https://github.com/jmsutorus/homepage/issues/306)) ([25f5efe](https://github.com/jmsutorus/homepage/commit/25f5efe8335b3f11d08e1a185e32a2a63c543c1c))
+* journal backlinks ([#307](https://github.com/jmsutorus/homepage/issues/307)) ([26c6bf7](https://github.com/jmsutorus/homepage/commit/26c6bf72b8efafb5ba14145e082bd3664dbeca09))
