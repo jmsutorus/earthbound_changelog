@@ -1,3 +1,10 @@
+# [1.23.0](https://github.com/jmsutorus/earthbound_api/compare/v1.22.0...v1.23.0) (2026-06-17)
+
+
+### Features
+
+* journal backlinks ([d5ead28](https://github.com/jmsutorus/earthbound_api/commit/d5ead28030772d2ff5f2a244a9c3981d9cfd2511))
+
 # [1.22.0](https://github.com/jmsutorus/earthbound_api/compare/v1.21.0...v1.22.0) (2026-06-15)
 
 
