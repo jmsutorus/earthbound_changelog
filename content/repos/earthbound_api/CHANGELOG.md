@@ -1,3 +1,10 @@
+# [1.24.0](https://github.com/jmsutorus/earthbound_api/compare/v1.23.0...v1.24.0) (2026-06-18)
+
+
+### Features
+
+* chat upgraded with history ([ed78196](https://github.com/jmsutorus/earthbound_api/commit/ed781969474d39ced35914b14414133d545ae2be))
+
 # [1.23.0](https://github.com/jmsutorus/earthbound_api/compare/v1.22.0...v1.23.0) (2026-06-17)
 
 
