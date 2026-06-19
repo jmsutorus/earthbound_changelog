@@ -1,3 +1,15 @@
+# [1.25.0](https://github.com/jmsutorus/earthbound_api/compare/v1.24.0...v1.25.0) (2026-06-19)
+
+
+### Bug Fixes
+
+* linting errors ([e6f7398](https://github.com/jmsutorus/earthbound_api/commit/e6f73982174b873405b378419e53bf8dca0d5d0b))
+
+
+### Features
+
+* added more enhancements to the workouts ([87ab0e7](https://github.com/jmsutorus/earthbound_api/commit/87ab0e77cc6b4994e7d2cf5975cdb230ac420b56))
+
 # [1.24.0](https://github.com/jmsutorus/earthbound_api/compare/v1.23.0...v1.24.0) (2026-06-18)
 
 
