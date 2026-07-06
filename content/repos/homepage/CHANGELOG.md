@@ -1,6 +1,6 @@
-# [1.65.0](https://github.com/jmsutorus/homepage/compare/v1.64.0...v1.65.0) (2026-06-19)
+## [1.65.1](https://github.com/jmsutorus/homepage/compare/v1.65.0...v1.65.1) (2026-07-06)
 
 
-### Features
+### Bug Fixes
 
-* added more enhancements to the workouts ([#309](https://github.com/jmsutorus/homepage/issues/309)) ([9bbc7e3](https://github.com/jmsutorus/homepage/commit/9bbc7e3a28f2e4ff99d492410dabc0e164c5c397))
+* fixing bugs I found on vacation ([#320](https://github.com/jmsutorus/homepage/issues/320)) ([65e982a](https://github.com/jmsutorus/homepage/commit/65e982ab1a8ea539b8986ca08980553af7586947))
