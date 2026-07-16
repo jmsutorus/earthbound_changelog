@@ -1,3 +1,10 @@
+# [1.27.0](https://github.com/jmsutorus/earthbound_api/compare/v1.26.0...v1.27.0) (2026-07-16)
+
+
+### Features
+
+* habit reminders ([8809b32](https://github.com/jmsutorus/earthbound_api/commit/8809b32156d308cfde9d024c4c603da009aaf67e))
+
 # [1.26.0](https://github.com/jmsutorus/earthbound_api/compare/v1.25.1...v1.26.0) (2026-07-08)
 
 
