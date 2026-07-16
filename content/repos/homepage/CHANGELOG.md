@@ -1,6 +1,6 @@
-# [1.66.0](https://github.com/jmsutorus/homepage/compare/v1.65.1...v1.66.0) (2026-07-08)
+# [1.67.0](https://github.com/jmsutorus/homepage/compare/v1.66.0...v1.67.0) (2026-07-16)
 
 
 ### Features
 
-* public page improvements ([#321](https://github.com/jmsutorus/homepage/issues/321)) ([8315948](https://github.com/jmsutorus/homepage/commit/8315948bc294a0610a68be99d2852d3dae31f4cb))
+* habit reminders ([#323](https://github.com/jmsutorus/homepage/issues/323)) ([3274e4b](https://github.com/jmsutorus/homepage/commit/3274e4b4500925e8f2e356df29ef8a3b9b83f071))
