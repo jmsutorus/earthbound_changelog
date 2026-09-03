@@ -1,3 +1,10 @@
+# [1.28.0](https://github.com/jmsutorus/earthbound_api/compare/v1.27.0...v1.28.0) (2026-09-03)
+
+
+### Features
+
+* search enhanced ([3468491](https://github.com/jmsutorus/earthbound_api/commit/34684916b399efee8d4cf3fe3c374001b9f818a6))
+
 # [1.27.0](https://github.com/jmsutorus/earthbound_api/compare/v1.26.0...v1.27.0) (2026-07-16)
 
 
