@@ -1,6 +1,6 @@
-# [1.67.0](https://github.com/jmsutorus/homepage/compare/v1.66.0...v1.67.0) (2026-07-16)
+# [1.68.0](https://github.com/jmsutorus/homepage/compare/v1.67.0...v1.68.0) (2026-11-04)
 
 
 ### Features
 
-* habit reminders ([#323](https://github.com/jmsutorus/homepage/issues/323)) ([3274e4b](https://github.com/jmsutorus/homepage/commit/3274e4b4500925e8f2e356df29ef8a3b9b83f071))
+* polish park, vacation and public profile pages ([#324](https://github.com/jmsutorus/homepage/issues/324)) ([2364326](https://github.com/jmsutorus/homepage/commit/236432637f4866967325848c7bf6ff4dbfa44481))
