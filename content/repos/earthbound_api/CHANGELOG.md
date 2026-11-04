@@ -1,3 +1,10 @@
+# [1.30.0](https://github.com/jmsutorus/earthbound_api/compare/v1.29.0...v1.30.0) (2026-11-04)
+
+
+### Features
+
+* public reactions, owner insights and discovery endpoints ([3e4d1a3](https://github.com/jmsutorus/earthbound_api/commit/3e4d1a3c27f2ca944f9a4f8a844c0174041d6000))
+
 # [1.29.0](https://github.com/jmsutorus/earthbound_api/compare/v1.28.0...v1.29.0) (2026-11-04)
 
 
