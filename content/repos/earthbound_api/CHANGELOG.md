@@ -1,3 +1,10 @@
+# [1.29.0](https://github.com/jmsutorus/earthbound_api/compare/v1.28.0...v1.29.0) (2026-11-04)
+
+
+### Features
+
+* add public parks list endpoint ([f065ed8](https://github.com/jmsutorus/earthbound_api/commit/f065ed8b96f0cf57769b1eb8c6ee595964a1008c))
+
 # [1.28.0](https://github.com/jmsutorus/earthbound_api/compare/v1.27.0...v1.28.0) (2026-09-03)
 
 
