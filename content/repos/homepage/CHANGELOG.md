@@ -1,6 +1,6 @@
-# [1.69.0](https://github.com/jmsutorus/homepage/compare/v1.68.0...v1.69.0) (2026-11-04)
+# [1.70.0](https://github.com/jmsutorus/homepage/compare/v1.69.0...v1.70.0) (2026-11-05)
 
 
 ### Features
 
-* public profile reactions, discovery, richer map and owner hub ([#325](https://github.com/jmsutorus/homepage/issues/325)) ([f135eeb](https://github.com/jmsutorus/homepage/commit/f135eebd605009ff565bfe1b65a4af53fd52b849))
+* pin vacations and US cities on the public map ([#326](https://github.com/jmsutorus/homepage/issues/326)) ([dce09c7](https://github.com/jmsutorus/homepage/commit/dce09c7d4a79fc1e09f66108e3bb5200682fa8ba))
