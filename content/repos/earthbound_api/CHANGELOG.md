@@ -1,3 +1,12 @@
+# [1.31.0](https://github.com/jmsutorus/earthbound_api/compare/v1.30.0...v1.31.0) (2026-11-05)
+
+
+### Features
+
+* photo-only discover feed with browse filters and for-you picks ([c07602a](https://github.com/jmsutorus/earthbound_api/commit/c07602abea1ec95155914de7d64bf5c3a3b1d8f0))
+* **public:** search, similar items, follows and invites ([c6adb5a](https://github.com/jmsutorus/earthbound_api/commit/c6adb5a09c2e1c3026eb0d916d6410edf8ed3f42))
+* store and serve geocoded vacation destinations ([85969e2](https://github.com/jmsutorus/earthbound_api/commit/85969e244a40a8ff032e3aa7aa000501f587bd44))
+
 # [1.30.0](https://github.com/jmsutorus/earthbound_api/compare/v1.29.0...v1.30.0) (2026-11-04)
 
 
