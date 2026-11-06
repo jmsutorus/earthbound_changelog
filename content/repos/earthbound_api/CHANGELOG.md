@@ -1,3 +1,10 @@
+# [1.33.0](https://github.com/jmsutorus/earthbound_api/compare/v1.32.0...v1.33.0) (2026-11-06)
+
+
+### Features
+
+* **user:** quiet hours and a scheduled-reminders setting ([18dd290](https://github.com/jmsutorus/earthbound_api/commit/18dd2901e22983ada31f675db791ce4870394c50))
+
 # [1.32.0](https://github.com/jmsutorus/earthbound_api/compare/v1.31.0...v1.32.0) (2026-11-06)
 
 
