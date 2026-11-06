@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/jmsutorus/earthbound-functions/compare/v1.2.2...v1.3.0) (2026-11-06)
+
+
+### Features
+
+* **notifications:** send-time policy, badge accuracy and streak reminder ([1e84483](https://github.com/jmsutorus/earthbound-functions/commit/1e8448349d698fdb4544f2767ae426a093cfa7be))
+
 ## [1.2.2](https://github.com/jmsutorus/earthbound-functions/compare/v1.2.1...v1.2.2) (2026-06-12)
 
 
