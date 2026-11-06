@@ -1,3 +1,10 @@
+# [1.32.0](https://github.com/jmsutorus/earthbound_api/compare/v1.31.0...v1.32.0) (2026-11-06)
+
+
+### Features
+
+* **writing:** review companion — in-page writing agent for media reviews ([ab3b64b](https://github.com/jmsutorus/earthbound_api/commit/ab3b64bab05a868a04ce7594758a3ce187434d0a))
+
 # [1.31.0](https://github.com/jmsutorus/earthbound_api/compare/v1.30.0...v1.31.0) (2026-11-05)
 
 
