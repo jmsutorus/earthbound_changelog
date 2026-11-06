@@ -1,3 +1,12 @@
+# [1.34.0](https://github.com/jmsutorus/earthbound_api/compare/v1.33.0...v1.34.0) (2026-11-06)
+
+
+### Features
+
+* gate the Review Companion to paid plans and raise its model floor ([5c8e311](https://github.com/jmsutorus/earthbound_api/commit/5c8e3111be7cbf2804c7c5f71f8b4f9607a8db31))
+* let admins assign every tier, not just user/admin/pro ([d3e5e36](https://github.com/jmsutorus/earthbound_api/commit/d3e5e3643917d82edb9a470e512e31d257d4ef28))
+* link the reviews the companion names ([c731fef](https://github.com/jmsutorus/earthbound_api/commit/c731fefe75c9b59620207edd45b9bb6d177c78ad))
+
 # [1.33.0](https://github.com/jmsutorus/earthbound_api/compare/v1.32.0...v1.33.0) (2026-11-06)
 
 
