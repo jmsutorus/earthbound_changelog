@@ -1,3 +1,10 @@
+# [1.35.0](https://github.com/jmsutorus/earthbound_api/compare/v1.34.0...v1.35.0) (2026-11-07)
+
+
+### Features
+
+* **companion:** journal, creation and event writing scopes ([03acd17](https://github.com/jmsutorus/earthbound_api/commit/03acd17cb94176cadc6dd8b3828d4695898eb9b6))
+
 # [1.34.0](https://github.com/jmsutorus/earthbound_api/compare/v1.33.0...v1.34.0) (2026-11-06)
 
 
