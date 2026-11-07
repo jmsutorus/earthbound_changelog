@@ -1,6 +1,6 @@
-# [1.74.0](https://github.com/jmsutorus/homepage/compare/v1.73.0...v1.74.0) (2026-11-06)
+# [1.75.0](https://github.com/jmsutorus/homepage/compare/v1.74.0...v1.75.0) (2026-11-07)
 
 
 ### Features
 
-* **notifications:** in-app inbox, delivery settings and badge accuracy ([#331](https://github.com/jmsutorus/homepage/issues/331)) ([f3bbb76](https://github.com/jmsutorus/homepage/commit/f3bbb7677913679c75ed1aeac31762cdf6ef9e57))
+* **companion:** journal, creation and event writing scopes ([#333](https://github.com/jmsutorus/homepage/issues/333)) ([6e2f136](https://github.com/jmsutorus/homepage/commit/6e2f13605e29f0080441b20a218f571a9c5bcdc7))
