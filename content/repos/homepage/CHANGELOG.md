@@ -1,6 +1,6 @@
-# [1.75.0](https://github.com/jmsutorus/homepage/compare/v1.74.0...v1.75.0) (2026-11-07)
+# [1.76.0](https://github.com/jmsutorus/homepage/compare/v1.75.0...v1.76.0) (2026-11-23)
 
 
 ### Features
 
-* **companion:** journal, creation and event writing scopes ([#333](https://github.com/jmsutorus/homepage/issues/333)) ([6e2f136](https://github.com/jmsutorus/homepage/commit/6e2f13605e29f0080441b20a218f571a9c5bcdc7))
+* **events:** add to calendar, On This Day, real map, better timeline search ([d03d18f](https://github.com/jmsutorus/homepage/commit/d03d18ff9ccff48dea09794ad14d85070c562614))
