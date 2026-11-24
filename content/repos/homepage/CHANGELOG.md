@@ -1,6 +1,6 @@
-# [1.77.0](https://github.com/jmsutorus/homepage/compare/v1.76.0...v1.77.0) (2026-11-24)
+# [1.78.0](https://github.com/jmsutorus/homepage/compare/v1.77.0...v1.78.0) (2026-11-24)
 
 
 ### Features
 
-* **uploads:** resize and strip gps from photos ([fc65980](https://github.com/jmsutorus/homepage/commit/fc65980e3d5411a5ef0bc393455bc57cfe545a2f))
+* **media:** add igdb game search and fix google books ([8bdd028](https://github.com/jmsutorus/homepage/commit/8bdd0288ece69e0b511862b8cbf192da4cee4269))
